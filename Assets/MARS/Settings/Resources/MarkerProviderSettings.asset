@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f78cbdb1a073a49729aca0637682078f, type: 3}
+  m_Name: MarkerProviderSettings
+  m_EditorClassIdentifier: 
+  m_XrReferenceImageLibraries:
+  - {fileID: 11400000, guid: 510c94efd67fe414da2e19447009969d, type: 2}
+  - {fileID: 11400000, guid: 1afa0bc97b94abb47888805d18084570, type: 2}
+  - {fileID: 11400000, guid: 84adf68cce33ef145876c2ce955841c1, type: 2}
+  m_MarsMarkerLibraries:
+  - {fileID: 11400000, guid: bcd3eb2b46c266742be8f93bdd491c0f, type: 2}
+  - {fileID: 11400000, guid: a33bc28c153acb34698b3ae868ef1f38, type: 2}
+  - {fileID: 11400000, guid: 7855cf0a20e087843b06f7a52289af5c, type: 2}

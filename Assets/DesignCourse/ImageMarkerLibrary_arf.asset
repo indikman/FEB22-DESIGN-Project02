@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 8
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ImageMarkerLibrary_arf
+  m_EditorClassIdentifier: 
+  m_GuidLow: 4862398986484077145
+  m_GuidHigh: 8570069360034436271
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 4783719511301267187
+      m_GuidHigh: 2315815350615918475
+    m_SerializedTextureGuid:
+      m_GuidLow: 15205292107667744008
+      m_GuidHigh: 6117122792589747419
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: SpellCircle
+    m_Texture: {fileID: 2800000, guid: 5f9625080c9cd304dbe4c11bc562e454, type: 3}
